@@ -1,0 +1,80 @@
+body{
+    
+    background-image: url(pexels-igor-starkov-233202-1307698.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+header{
+      
+      width: 1332px;
+      height: 121px;
+      text-align: center;
+}
+
+nav{
+    background-color: rgba(0, 0, 0, 0.04);
+    padding-top: 92px;
+    padding-bottom: 14px;
+    text-align: center;
+}
+
+main{
+     width: 1332px;
+     height: 210px;
+     text-align: center;
+     padding-top: 92px;
+}
+
+h1{
+    color: aquamarine;
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 49px;
+}
+
+a{     
+    font-size: 28px;
+       color: brown;
+       
+       
+}
+
+footer{
+   
+    width: 1332px;
+    height: 200px ;
+   
+
+}
+ 
+nav a {
+   color: rgb(145, 106, 1);
+  padding-right: 8px;
+  padding-left: 8px;
+}
+  
+.box1{
+   
+   padding-right: 850px;
+   padding-left: 46%;
+
+}
+
+.box2{ 
+    padding-right: 850px;
+    padding-left: 47%;
+
+}
+
+section{
+    width: 1332px;
+    height: 28px;
+    background-color: rgba(49, 30, 41, 0.21);
+    color: black;
+    text-align: center;
+    font-size: larger;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
